@@ -1,0 +1,30 @@
+_-= v0.9 Beta =-_
+1. Push to email if fail - Done
+2. Print more detail on ip address scanned - Done
+3. loop the program forever - Done
+4. Basic password Encoding - Done
+
+_-= v0.91 Beta =-_
+1. Read data from SQL - Done
+2. Push data to SQL data base - Done
+3. Record Date/Time of lost of connection - Done
+4. Pause the loop for 300 sec - Done
+
+_-= v0.92 Beta =-_
+1. Create a definition for file fault recording & Emailing
+2. Setup argparse for user interaction
+3. Allow user to set time between scanned
+4. Allow user to select database
+5. Setup error if no database is selected or not found
+
+_-= v0.93 Beta =-_
+1. Get user to enter email username and password and encrypt in base64
+2. Enable email server configuration (email url/ipaddress and port)
+
+
+-----------------------------------------------------------------------------------------------------------
+
+Class Method to be used for SQL interaction, storing default Email parameters, organising & pulling data
+
+Class Method to be used for SQL interaction, organising IP data & pulling IP data to be passed back to
+main.encapsulate
